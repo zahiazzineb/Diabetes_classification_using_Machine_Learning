@@ -1,2 +1,2 @@
 # Diabetes_classification_using_Machine_Learning
-We have created a machine learning models to predict if a person has diabetes or not.
+We start with the data reading , processing, analysis and models creation.
